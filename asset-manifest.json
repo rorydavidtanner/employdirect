@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/employdirect/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/employdirect/static/js/main.d4c0778a.chunk.js",
+    "main.js.map": "/employdirect/static/js/main.d4c0778a.chunk.js.map",
+    "runtime-main.js": "/employdirect/static/js/runtime-main.9e496937.js",
+    "runtime-main.js.map": "/employdirect/static/js/runtime-main.9e496937.js.map",
+    "static/js/2.88e93a41.chunk.js": "/employdirect/static/js/2.88e93a41.chunk.js",
+    "static/js/2.88e93a41.chunk.js.map": "/employdirect/static/js/2.88e93a41.chunk.js.map",
+    "static/js/3.43ad24c8.chunk.js": "/employdirect/static/js/3.43ad24c8.chunk.js",
+    "static/js/3.43ad24c8.chunk.js.map": "/employdirect/static/js/3.43ad24c8.chunk.js.map",
+    "index.html": "/employdirect/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/employdirect/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.88e93a41.chunk.js.LICENSE.txt": "/employdirect/static/js/2.88e93a41.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/employdirect/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e496937.js",
+    "static/js/2.88e93a41.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d4c0778a.chunk.js"
+  ]
+}
