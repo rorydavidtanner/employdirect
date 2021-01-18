@@ -12,7 +12,8 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 # Screenshots
 
-![Screenshot 1]()
+![Screenshot 1](public/SS1.png)
+![Screenshot 2](public/SS2.png)
 
 # Build Status
 
@@ -34,9 +35,6 @@ Working app, requires testing and further development
  - Requires node js
  - npm install
  - npm start
-
- # Code Example 
-
 
 
  # Deployed links 
