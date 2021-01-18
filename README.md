@@ -40,3 +40,5 @@ Working app, requires testing and further development
  # Deployed links 
 
 https://github.com/rorydavidtanner/employdirect
+
+https://rorydavidtanner.github.io/employdirect/
